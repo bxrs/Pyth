@@ -1,0 +1,20 @@
+@font-face { font-family: Cocogoose; src: url('Cocogoose\ Pro-trial.ttf'); } 
+
+body {
+  background-color: rgb(255, 255, 255);
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+head {
+  color: rgb(255, 0, 0);
+  margin-left: 20px;
+}
+
+h2 {
+  text-align: center;
+  font-size: x-large;
+}
+
+p {
+    text-align: center;
+}
